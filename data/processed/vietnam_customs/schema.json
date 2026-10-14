@@ -1,0 +1,111 @@
+{
+  "schema_version": "analytics-v1",
+  "grain": "one published table row from one selected annual document",
+  "null_encoding": "empty CSV field",
+  "facts": {
+    "file": "trade_facts.csv",
+    "columns": [
+      "document_id",
+      "source_ma",
+      "series",
+      "trade_flow",
+      "report_family",
+      "reference_year",
+      "reference_month",
+      "publication_period",
+      "edition",
+      "table_code",
+      "parser_version",
+      "validation_status",
+      "coverage_complete",
+      "edition_fallback",
+      "fallback_reason",
+      "fact_level",
+      "row_type",
+      "country_group_number",
+      "country_name_raw",
+      "commodity_number",
+      "commodity_number_raw",
+      "commodity_name_raw",
+      "unit_raw",
+      "reporting_month_volume",
+      "reporting_month_value_usd",
+      "mom_volume_pct",
+      "mom_value_pct",
+      "ytd_volume",
+      "ytd_value_usd",
+      "yoy_volume_pct",
+      "yoy_value_pct",
+      "page_number",
+      "source_row_number",
+      "source_line_top",
+      "source_url",
+      "local_path"
+    ],
+    "decimal_columns": [
+      "reporting_month_volume",
+      "reporting_month_value_usd",
+      "mom_volume_pct",
+      "mom_value_pct",
+      "ytd_volume",
+      "ytd_value_usd",
+      "yoy_volume_pct",
+      "yoy_value_pct",
+      "source_line_top"
+    ],
+    "integer_columns": [
+      "reference_year",
+      "reference_month",
+      "country_group_number",
+      "commodity_number",
+      "page_number",
+      "source_row_number"
+    ],
+    "fact_levels": [
+      "national_total",
+      "national_fdi_total",
+      "national_commodity",
+      "national_other",
+      "country_total",
+      "country_commodity"
+    ]
+  },
+  "documents": {
+    "file": "documents.csv",
+    "columns": [
+      "document_id",
+      "source_ma",
+      "series",
+      "trade_flow",
+      "report_family",
+      "reference_year",
+      "reference_month",
+      "publication_period",
+      "edition",
+      "table_code",
+      "parser_version",
+      "validation_status",
+      "validation_warnings",
+      "row_count",
+      "commodity_count",
+      "country_count",
+      "coverage_complete",
+      "edition_fallback",
+      "fallback_reason",
+      "sha256",
+      "size_bytes",
+      "page_count",
+      "source_url",
+      "local_path"
+    ],
+    "primary_key": [
+      "document_id"
+    ]
+  },
+  "notes": [
+    "country_name_raw is empty for national 2X/2N rows",
+    "mom/yoy percentage fields are empty for 5X/5N rows",
+    "names remain source labels; canonical entity mapping is not applied",
+    "numeric values use a dot decimal separator and no thousands separator"
+  ]
+}

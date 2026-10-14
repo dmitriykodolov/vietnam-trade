@@ -1,0 +1,18 @@
+{
+  "schema_version": "analytics-v1",
+  "generated_at": "2026-10-12T17:26:56.955037+00:00",
+  "document_count": 40,
+  "fact_count": 25108,
+  "validation_passed_count": 40,
+  "missing": [],
+  "files": {
+    "trade_facts.csv": {
+      "sha256": "fb95a8ba482616e406feee3d9f49ae45b3da14772d16739cd86846a683ebaad5",
+      "rows": 25108
+    },
+    "documents.csv": {
+      "sha256": "200848d9afae37e57a27a7377578c77dd0eaa3d9005969723cb7cd71da9e5f78",
+      "rows": 40
+    }
+  }
+}

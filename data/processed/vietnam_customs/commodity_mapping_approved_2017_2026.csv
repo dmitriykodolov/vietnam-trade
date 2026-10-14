@@ -1,0 +1,283 @@
+﻿series,commodity_name_raw,commodity_id
+2N,Animal and animal products,C071
+2N,Animal fodders and animal fodder materials,C001
+2N,"Animal, vegetable fats and oils",C002
+2N,Cashew nut,C004
+2N,Chemical products,C006
+2N,Chemicals,C007
+2N,Coal,C009
+2N,"Computers, electrical products, spare-parts and components thereof",C011
+2N,Cotton,C012
+2N,Crude oil,C013
+2N,Electric consumer products and parts thereof,C014
+2N,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",C015
+2N,Fabrics,C016
+2N,Ferrous waste and scrap,C017
+2N,Fertilizers,C018
+2N,Fishery products,C019
+2N,Fruits and vegetables,C021
+2N,Glass and glassware,C023
+2N,"Insecticides, rodenticides and materials",C025
+2N,Insulated wires and cables,C026
+2N,Iron and steel,C027
+2N,Iron and steel products,C028
+2N,Liquefied petroleum gases (LPG),C029
+2N,"Machine, equipment, tools and instruments",C030
+2N,Maize (corn),C031
+2N,Manioc and manioc products,C032
+2N,Milk and milk products,C033
+2N,Motor vehicles,C034
+2N,"Motorcycles and parts, accessories thereof",C035
+2N,Ores and other minerals product,C036
+2N,Other base metal products,C037
+2N,Other base metals,C038
+2N,Other edible food preparations,C040
+2N,"Other means of transportation, parts and accessories thereof",C041
+2N,Other petroleum products,C042
+2N,Other products,C043
+2N,Paper,C044
+2N,Paper products,C046
+2N,Parts and accessories of motor vehicles,C047
+2N,"Pastrycooks, sweets and cereal products",C048
+2N,Petroleum products,C050
+2N,Pharmaceutical materials,C051
+2N,Pharmaceutical products,C052
+2N,Plastic products,C053
+2N,Plastics,C054
+2N,"Precious stones, precious metal and articles thereof",C055
+2N,Rubber,C057
+2N,Rubber products,C058
+2N,Soya beans,C059
+2N,"Still image, video cameras and parts thereof",C060
+2N,"Telephones, mobile phones and parts thereof",C062
+2N,"Textile, leather and foot-wear materials and auxiliaries",C063
+2N,Tobacco materials,C065
+2N,Toys and sports requisites; parts and accessories thereof,C066
+2N,Wheats,C068
+2N,Wood and wooden products,C069
+2N,Yarn,C070
+2X,Animal fodders and animal fodder materials,C001
+2X,"Animal, vegetable fats and oils",C002
+2X,Bamboo and rattan products,C003
+2X,Cashew nut,C004
+2X,Ceramic products,C005
+2X,Chemical products,C006
+2X,Chemicals,C007
+2X,Cinnamon and cinnamon-tree flowers,C072
+2X,Clinker and cement,C008
+2X,Coal,C009
+2X,Coffee,C010
+2X,"Computers, electrical products, spare-parts and components thereof",C011
+2X,Crude oil,C013
+2X,Electric consumer products and parts thereof,C014
+2X,Fertilizers,C018
+2X,Fishery products,C019
+2X,Foot-wears,C020
+2X,Fruits and vegetables,C021
+2X,"Furnitures of other materials, other than of wood",C022
+2X,Glass and glassware,C023
+2X,"Handbags, purses, suit-cases, headgear and umbrellas",C024
+2X,Insulated wires and cables,C026
+2X,Iron and steel,C027
+2X,Iron and steel products,C028
+2X,"Machine, equipment, tools and instruments",C030
+2X,Manioc and manioc products,C032
+2X,Ores and other minerals product,C036
+2X,Other base metal products,C037
+2X,Other base metals,C038
+2X,Other base metals and other base metal products,C039
+2X,Other edible food preparations,C040
+2X,Other made up textile articles,C073
+2X,"Other means of transportation, parts and accessories thereof",C041
+2X,Other products,C043
+2X,Paper and paper products,C045
+2X,"Pastrycooks, sweets and cereals products",C048
+2X,Pepper,C049
+2X,Petroleum products,C050
+2X,Plastic products,C053
+2X,Plastics,C054
+2X,"Precious stones, precious metal and articles thereof",C055
+2X,Rice,C056
+2X,Rubber,C057
+2X,Rubber products,C058
+2X,"Still image, video cameras and sparts thereof",C060
+2X,Tea,C061
+2X,"Telephones, mobile phones and parts thereof",C062
+2X,"Textile, leather and foot-wear materials and auxiliaries",C063
+2X,Textiles and garments,C064
+2X,Toys and sports requisites; parts and accessories thereof,C066
+2X,Tyre cord fabrics and other fabrics for technical uses,C067
+2X,Wood and wooden products,C069
+2X,Yarn,C070
+5N,Animal fodders and animal fodder materials,C001
+5N,Animal fodders and animal fodder materials www.customs.gov.vn,C001
+5N,"Animal, vegetable fats and oils",C002
+5N,Cashew nut,C004
+5N,Chemical products,C006
+5N,Chemical products www.customs.gov.vn,C006
+5N,Chemicals,C007
+5N,Chemicals www.customs.gov.vn,C007
+5N,Coal,C009
+5N,"Computers, electrical products, spare-parts and components thereof",C011
+5N,Cotton,C012
+5N,Crude oil,C013
+5N,Electric consumer products and parts thereof,C014
+5N,Electric consumer products and parts thereof www.customs.gov.vn,C014
+5N,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",C015
+5N,Fabrics,C016
+5N,Fabrics www.customs.gov.vn,C016
+5N,Ferrous waste and scrap,C017
+5N,Fertilizers,C018
+5N,Fishery products,C019
+5N,Fruits and vegetables,C021
+5N,Glass and glassware,C023
+5N,Glass and glassware www.customs.gov.vn,C023
+5N,"Insecticides, rodenticides and materials",C025
+5N,Insulated wires and cables,C026
+5N,Insulated wires and cables www.customs.gov.vn,C026
+5N,Iron and steel,C027
+5N,Iron and steel products,C028
+5N,Iron and steel products www.customs.gov.vn,C028
+5N,Iron and steel www.customs.gov.vn,C027
+5N,Liquefied petroleum gases (LPG),C029
+5N,Liquefied petroleum gases (LPG) www.customs.gov.vn,C029
+5N,"Machine, equipment, tools and instruments",C030
+5N,"Machine, equipment, tools and instruments www.customs.gov.vn",C030
+5N,Maize (corn),C031
+5N,Milk and milk products,C033
+5N,Motor vehicles,C034
+5N,Motor vehicles www.customs.gov.vn,C034
+5N,Ores and other minerals product,C036
+5N,Other base metal products,C037
+5N,Other base metal products www.customs.gov.vn,C037
+5N,Other base metals,C038
+5N,Other base metals www.customs.gov.vn,C038
+5N,Other edible food preparations,C040
+5N,Other edible food preparations www.customs.gov.vn,C040
+5N,"Other means of transportation, parts and accessories thereof",C041
+5N,"Other means of transportation, parts and accessories thereof www.customs.gov.vn",C041
+5N,Other petroleum products,C042
+5N,Other products,C043
+5N,Other products www.customs.gov.vn,C043
+5N,Paper,C044
+5N,Paper products,C046
+5N,Paper products www.customs.gov.vn,C046
+5N,Parts and accessories of motor vehicles,C047
+5N,Parts and accessories of motor vehicles www.customs.gov.vn,C047
+5N,"Pastrycooks, sweets and cereal products",C048
+5N,Petroleum products,C050
+5N,Pharmaceutical materials,C051
+5N,Pharmaceutical products,C052
+5N,Pharmaceutical products www.customs.gov.vn,C052
+5N,Plastic products,C053
+5N,Plastics,C054
+5N,Plastics www.customs.gov.vn,C054
+5N,"Precious stones, precious metal and articles thereof",C055
+5N,Rubber,C057
+5N,Rubber products,C058
+5N,Rubber products www.customs.gov.vn,C058
+5N,Rubber www.customs.gov.vn,C057
+5N,Soya beans,C059
+5N,"Still image, video cameras and parts thereof",C060
+5N,"Telephones, mobile phones and parts thereof",C062
+5N,"Textile, leather and foot-wear materials and auxiliaries",C063
+5N,"Textile, leather and foot-wear materials and auxiliaries www.customs.gov.vn",C063
+5N,Tobacco materials,C065
+5N,Wheats,C068
+5N,Wood and wooden products,C069
+5N,Wood and wooden products www.customs.gov.vn,C069
+5N,Yarn,C070
+5N,Yarn www.customs.gov.vn,C070
+5X,Animal fodders and animal fodder materials,C001
+5X,Animal fodders and animal fodder materials www.customs.gov.vn,C001
+5X,Bamboo and rattan products,C003
+5X,Bamboo and rattan products www.customs.gov.vn,C003
+5X,Cashew nut,C004
+5X,Cashew nut www.customs.gov.vn,C004
+5X,Ceramic products,C005
+5X,Ceramic products www.customs.gov.vn,C005
+5X,Ceramic www.customs.gov.vn products,C005
+5X,Chemical products,C006
+5X,Chemical www.customs.gov.vn products,C006
+5X,Chemicals,C007
+5X,Chemicals www.customs.gov.vn,C007
+5X,Clinker and cement,C008
+5X,Clinker and cement www.customs.gov.vn,C008
+5X,Coal,C009
+5X,Coffee,C010
+5X,Coffee www.customs.gov.vn,C010
+5X,"Computers, electrical products, spare-parts and components thereof",C011
+5X,"Computers, electrical products, spare-parts and components thereof www.customs.gov.vn",C011
+5X,"Computers, electrical products, spare-parts and www.customs.gov.vn components thereof",C011
+5X,Crude oil,C013
+5X,Fertilizers,C018
+5X,Fishery products,C019
+5X,Fishery products www.customs.gov.vn,C019
+5X,Fishery www.customs.gov.vn products,C019
+5X,Foot-wears,C020
+5X,Foot-wears www.customs.gov.vn,C020
+5X,Fruits and vegetables,C021
+5X,Fruits and vegetables www.customs.gov.vn,C021
+5X,"Furnitures of other materials, other than of wood",C022
+5X,"Furnitures of other materials, other than of wood www.customs.gov.vn",C022
+5X,Glass and glassware,C023
+5X,Glass and glassware www.customs.gov.vn,C023
+5X,"Handbags, purses, suit-cases, headgear and umbrellas",C024
+5X,"Handbags, purses, suit-cases, headgear and umbrellas www.customs.gov.vn",C024
+5X,"Handbags, purses, suit-cases, headgear and www.customs.gov.vn umbrellas",C024
+5X,Insulated wires and cables,C026
+5X,Insulated wires and cables www.customs.gov.vn,C026
+5X,Insulated www.customs.gov.vn wires and cables,C026
+5X,Iron and steel,C027
+5X,Iron and steel products,C028
+5X,Iron and steel products www.customs.gov.vn,C028
+5X,Iron and steel www.customs.gov.vn,C027
+5X,"Machine, equipment, tools and instruments",C030
+5X,"Machine, equipment, tools and instruments www.customs.gov.vn",C030
+5X,Manioc and manioc products,C032
+5X,Ores and other minerals product,C036
+5X,Ores and other minerals product www.customs.gov.vn,C036
+5X,Other base metals,C038
+5X,Other base metals and other base metal products,C039
+5X,Other base metals and other base metal products www.customs.gov.vn,C039
+5X,"Other means of transportation, parts and accessories thereof",C041
+5X,"Other means of transportation, parts and accessories thereof www.customs.gov.vn",C041
+5X,"Other means of transportation, parts and www.customs.gov.vn accessories thereof",C041
+5X,Other products,C043
+5X,Other products www.customs.gov.vn,C043
+5X,Paper and paper products,C045
+5X,"Pastrycooks, sweets and cereals products",C048
+5X,"Pastrycooks, www.customs.gov.vn sweets and cereals products",C048
+5X,Pepper,C049
+5X,Pepper www.customs.gov.vn,C049
+5X,Petroleum products,C050
+5X,Plastic products,C053
+5X,Plastic products www.customs.gov.vn,C053
+5X,Plastic www.customs.gov.vn products,C053
+5X,Plastics,C054
+5X,Plastics www.customs.gov.vn,C054
+5X,"Precious stones, precious metal and articles thereof",C055
+5X,"Precious stones, precious metal and articles thereof www.customs.gov.vn",C055
+5X,Rice,C056
+5X,Rice www.customs.gov.vn,C056
+5X,Rubber,C057
+5X,Rubber products,C058
+5X,Rubber products www.customs.gov.vn,C058
+5X,Rubber www.customs.gov.vn,C057
+5X,"Still image, video cameras and sparts thereof",C060
+5X,"Still image, video cameras and sparts thereof www.customs.gov.vn",C060
+5X,Tea,C061
+5X,Tea www.customs.gov.vn,C061
+5X,"Telephones, mobile phones and parts thereof",C062
+5X,"Telephones, mobile phones and parts thereof www.customs.gov.vn",C062
+5X,"Textile, leather and foot-wear materials and auxiliaries",C063
+5X,"Textile, leather and foot-wear materials and www.customs.gov.vn auxiliaries",C063
+5X,Textiles and garments,C064
+5X,Textiles and garments www.customs.gov.vn,C064
+5X,Toys and sports requisites; parts and accessories thereof,C066
+5X,Toys and sports requisites; parts and accessories thereof www.customs.gov.vn,C066
+5X,Tyre cord fabrics and other fabrics for technical uses,C067
+5X,Tyre cord fabrics and other fabrics for technical uses www.customs.gov.vn,C067
+5X,Wood and wooden products,C069
+5X,Yarn,C070
+5X,,C074

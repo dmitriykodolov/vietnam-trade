@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/
+.ruff_cache/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Local tools and IDEs
+/.idea/
+/.codex/
+
+# Generated analysis artifacts
+/outputs
+/outputs_extended
+/tmp
+
+# Raw downloads and parser intermediates are reproducible and too large for Git.
+/data/raw/
+
+# Keep only the curated, portable dataset required by the notebook.
+/data/processed/*
+!/data/processed/vietnam_customs/
+/data/processed/vietnam_customs/*
+!/data/processed/vietnam_customs/trade_facts.csv
+!/data/processed/vietnam_customs/documents.csv
+!/data/processed/vietnam_customs/commodity_mapping_approved_2017_2026.csv
+!/data/processed/vietnam_customs/commodity_dictionary_approved.csv
+!/data/processed/vietnam_customs/schema.json
+!/data/processed/vietnam_customs/manifest.json
+!/data/processed/vietnam_customs/README.md
+
+# Jupyter
+.ipynb_checkpoints/
+
+# dbt
+dbt/target/
+dbt/logs/
+
+# macOS
+.DS_Store
